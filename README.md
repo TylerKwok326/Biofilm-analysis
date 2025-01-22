@@ -54,21 +54,6 @@ The analysis expects three CSV files:
 - Polynomial fitting with various degrees for trend analysis
 - MSE calculation for model comparison
 
-## Usage
-
-```python
-# Initialize the analyzer
-analyzer = ComprehensiveBiofilmAnalysis()
-
-# Run complete analysis pipeline
-analyzer.run_complete_analysis()
-
-# Or run individual components:
-analyzer.load_all_datasets()
-analyzer.prepare_characterization_data()
-analyzer.statistical_analysis()
-analyzer.create_visualizations()
-```
 
 ## Output Interpretation
 
