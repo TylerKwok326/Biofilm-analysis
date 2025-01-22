@@ -1,6 +1,11 @@
 # Comprehensive Biofilm Analysis
 
-This Python package provides a comprehensive toolkit for analyzing biofilm formation and characteristics across different environmental conditions. The analysis includes statistical testing, bootstrap analysis, growth modeling, and visualization of biofilm development patterns.
+## Data Sources
+
+Original Paper: Evolutionary and plastic responses of marine diatoms to ocean acidification and warming
+Dataset: Zenodo Repository
+
+The study examines a 400-generation selection experiment for bacterial biofilm formation under various environmental conditions, providing insights into diatom-bacteria interactions and adaptation mechanisms.
 
 ## Overview
 
